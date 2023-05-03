@@ -5,7 +5,7 @@ public class Course {
 	
 	int nextPosition = 0;
 	String name;
-
+//Test Kommentar
 
 	public Course(String name, int numberOfStudents) {
 		this.members = new Student[numberOfStudents];
