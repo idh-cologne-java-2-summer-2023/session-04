@@ -58,6 +58,8 @@ public class Course implements Iterable<Student> {
 		java2.addMember("Reshma Vera");
 		java2.addMember("Isaac Sumire");
 		System.out.println(java2.getDescription());
+		System.out.println("test");
+
 		
 		StudentIterator iter = new StudentIterator(java2);
 		
